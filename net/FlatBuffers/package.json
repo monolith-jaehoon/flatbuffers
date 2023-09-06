@@ -1,0 +1,12 @@
+{
+  "name": "com.google.flatbuffers",
+  "displayName": "FlatBuffers Plugin",
+  "version": "23.5.26",
+  "unity": "2022.3",
+  "description": "FlatBuffers Plugin",
+  "keywords": [
+    "flatbuffers"
+  ],
+  "dependencies": {
+  }
+}
