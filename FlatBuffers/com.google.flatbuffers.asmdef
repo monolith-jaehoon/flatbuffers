@@ -1,0 +1,14 @@
+{
+    "name": "Google.FlatBuffers",
+    "rootNamespace": "Google.FlatBuffers",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
