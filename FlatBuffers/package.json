@@ -1,7 +1,7 @@
 {
   "name": "com.google.flatbuffers",
   "displayName": "FlatBuffers Plugin",
-  "version": "23.5.26",
+  "version": "24.3.7",
   "description": "FlatBuffers Plugin",
   "keywords": [
     "flatbuffers"
